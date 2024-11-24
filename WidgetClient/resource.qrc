@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/network-online.svg</file>
+    <file>images/network-offline.svg</file>
+    <file>images/folder.svg</file>
+    <file>images/file.svg</file>
+    <file>images/mp3.png</file>
+    <file>images/mp4.png</file>
+    <file>images/pdf.png</file>
+    <file>images/transfer.png</file>
+    <file>images/downloadingIcon.png</file>
+</qresource>
+</RCC>
